@@ -31,4 +31,4 @@ Criado por Roy Fielding, um dos criadores do HTTP
 - Garantir o preenchimento correto de campos
 - Validar dados, documentos, números importantes (CPF, CEP, Telefone, Número de Cartão, .... )
 - Prevenção de vulnerabilidades como SQL Injection
-- Tarefa do front-end, que podem ser processadas pelo back-end
+- Tarefa do front-end, que podem ser processadas pelo back-end# Ajax
