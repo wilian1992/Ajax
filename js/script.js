@@ -1,7 +1,7 @@
 
 const url = 'https://api.github.com/users';
 const main = document.getElementById('main')
-let user = 'wilian1992'
+// let user = 'marcelocant'
 let text = ''
 
 function getUser(user) {

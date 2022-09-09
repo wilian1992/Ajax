@@ -67,6 +67,6 @@ form.addEventListener('submit', function(event){
 
     mensagem.innerHTML = markup;
 
-     if(msg.length == 0)  form.submit();
+    // if(msg.length == 0)  form.submit();
 
 });
